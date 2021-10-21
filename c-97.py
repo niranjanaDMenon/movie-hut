@@ -1,0 +1,2 @@
+name="Ammu"
+print(name)
